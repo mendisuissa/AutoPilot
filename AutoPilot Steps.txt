@@ -1,0 +1,10 @@
+1- Shift + F10 To open CMD write Explorer
+2- Open the USB and run Show-WIFI.Bat and connect to the Wifi or \ Ethernet
+3- Run Upload-AzureAD-Online.bat and accept everything and enter your O365 Global Admin
+4- Wait for the script to upload the Hash to your Tenant
+5- Restart the pc using the command : Shutdown -r -t 0
+6- When the PC is turned on again Make sure it's connected to the Internet
+7- Press 5 times Win Key
+8- Choose Windows Autopilot Provisioning (Second Option)
+9- The pc will find your Tenant (if step 4 didn't fail)
+10- Procced to Enroll the PC To your Tenant and wait for the Status Page to finish
