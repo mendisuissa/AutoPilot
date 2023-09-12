@@ -1,0 +1,6 @@
+﻿Invoke-WebRequest -Uri "https://github.com/mendisuissa/AutoPilot/tree/main/AutoPilot Steps.txt" -OutFile .\"AutoPilot Steps.txt"
+Invoke-WebRequest -Uri "https://github.com/mendisuissa/AutoPilot/tree/main/Get-AutopilotDiagnostics.ps1" -OutFile .\"Get-AutopilotDiagnostics.ps1"
+Invoke-WebRequest -Uri "https://github.com/mendisuissa/AutoPilot/tree/main/Show-WiFi.bat" -OutFile .\"Show-WiFi.bat"
+Invoke-WebRequest -Uri "https://github.com/mendisuissa/AutoPilot/tree/main/Get-WindowsAutoPilotInfo.ps1" -OutFile .\"Get-WindowsAutoPilotInfo.ps1"
+Invoke-WebRequest -Uri "https://github.com/mendisuissa/AutoPilot/tree/main/Upload-AzureAD-Online.bat" -OutFile .\"Upload-AzureAD-Online.bat"
+Invoke-WebRequest -Uri "https://github.com/mendisuissa/AutoPilot/tree/main/Upload-Online.bat" -OutFile .\"Upload-Online.bat"
